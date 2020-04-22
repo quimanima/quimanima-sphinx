@@ -1,0 +1,12 @@
+README.md
+distribuicao_eletronica.py
+elemento_quimico.py
+estado_fisico.py
+logo_marca.py
+modelo_atomico_rutherford.py
+rutherford_alfa.py
+setup.py
+Quimanima.egg-info/PKG-INFO
+Quimanima.egg-info/SOURCES.txt
+Quimanima.egg-info/dependency_links.txt
+Quimanima.egg-info/top_level.txt

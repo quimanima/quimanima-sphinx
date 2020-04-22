@@ -1,0 +1,7 @@
+action: docs, msg: getenv
+cwd: /Users/hubbi/Desktop/sphinx-quimanima/build/tox
+cmd: /Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8 -m virtualenv --no-download --python /Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8 docs
+created virtual environment CPython3.8.2.final.0-64 in 990ms
+  creator CPython3Posix(dest=/Users/hubbi/Desktop/sphinx-quimanima/build/tox/docs, clear=False, global=False)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, via=copy, app_data_dir=/Users/hubbi/Library/Application Support/virtualenv/seed-app-data/v1.0.1)
+  activators BashActivator,CShellActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator

@@ -1,0 +1,16 @@
+action: docs, msg: installpkg
+cwd: /Users/hubbi/Desktop/sphinx-quimanima
+cmd: /Users/hubbi/Desktop/sphinx-quimanima/build/tox/docs/bin/python -m pip install --exists-action w build/tox/.tmp/package/1/Quimanima-2020.1.0.zip
+Processing ./build/tox/.tmp/package/1/Quimanima-2020.1.0.zip
+Building wheels for collected packages: Quimanima
+  Building wheel for Quimanima (setup.py): started
+  Building wheel for Quimanima (setup.py): finished with status 'done'
+  Created wheel for Quimanima: filename=Quimanima-2020.1.0-py3-none-any.whl size=12459 sha256=945a9e374022c8e6acc17adf29f4b8a32f3365fcb11b7fcdde79e832788dd12e
+  Stored in directory: /Users/hubbi/Library/Caches/pip/wheels/8e/1b/f9/7ac1d286c5fb023ecf4cda7b4efd185fd871fdfa8620586b45
+Successfully built Quimanima
+Installing collected packages: Quimanima
+  Attempting uninstall: Quimanima
+    Found existing installation: Quimanima 2020.1.0
+    Not uninstalling quimanima at /Users/hubbi/Desktop/sphinx-quimanima, outside environment /Users/hubbi/Desktop/sphinx-quimanima/build/tox/docs
+    Can't uninstall 'Quimanima'. No files were found to uninstall.
+Successfully installed Quimanima-2020.1.0

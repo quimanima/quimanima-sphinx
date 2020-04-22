@@ -1,0 +1,49 @@
+action: GLOB, msg: packaging
+cwd: /Users/hubbi/Desktop/sphinx-quimanima
+cmd: /Library/Frameworks/Python.framework/Versions/3.8/bin/python3.8 setup.py sdist --formats=zip --dist-dir build/tox/dist
+running sdist
+running egg_info
+writing Quimanima.egg-info/PKG-INFO
+writing dependency_links to Quimanima.egg-info/dependency_links.txt
+writing top-level names to Quimanima.egg-info/top_level.txt
+reading manifest file 'Quimanima.egg-info/SOURCES.txt'
+writing manifest file 'Quimanima.egg-info/SOURCES.txt'
+running check
+warning: check: missing required meta-data: url
+
+warning: check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating Quimanima-2020.1.0
+creating Quimanima-2020.1.0/Quimanima.egg-info
+copying files to Quimanima-2020.1.0...
+copying README.md -> Quimanima-2020.1.0
+copying distribuicao_eletronica.py -> Quimanima-2020.1.0
+copying elemento_quimico.py -> Quimanima-2020.1.0
+copying estado_fisico.py -> Quimanima-2020.1.0
+copying logo_marca.py -> Quimanima-2020.1.0
+copying modelo_atomico_rutherford.py -> Quimanima-2020.1.0
+copying rutherford_alfa.py -> Quimanima-2020.1.0
+copying setup.py -> Quimanima-2020.1.0
+copying Quimanima.egg-info/PKG-INFO -> Quimanima-2020.1.0/Quimanima.egg-info
+copying Quimanima.egg-info/SOURCES.txt -> Quimanima-2020.1.0/Quimanima.egg-info
+copying Quimanima.egg-info/dependency_links.txt -> Quimanima-2020.1.0/Quimanima.egg-info
+copying Quimanima.egg-info/top_level.txt -> Quimanima-2020.1.0/Quimanima.egg-info
+Writing Quimanima-2020.1.0/setup.cfg
+creating 'build/tox/dist/Quimanima-2020.1.0.zip' and adding 'Quimanima-2020.1.0' to it
+adding 'Quimanima-2020.1.0'
+adding 'Quimanima-2020.1.0/Quimanima.egg-info'
+adding 'Quimanima-2020.1.0/PKG-INFO'
+adding 'Quimanima-2020.1.0/estado_fisico.py'
+adding 'Quimanima-2020.1.0/rutherford_alfa.py'
+adding 'Quimanima-2020.1.0/elemento_quimico.py'
+adding 'Quimanima-2020.1.0/README.md'
+adding 'Quimanima-2020.1.0/setup.py'
+adding 'Quimanima-2020.1.0/logo_marca.py'
+adding 'Quimanima-2020.1.0/distribuicao_eletronica.py'
+adding 'Quimanima-2020.1.0/setup.cfg'
+adding 'Quimanima-2020.1.0/modelo_atomico_rutherford.py'
+adding 'Quimanima-2020.1.0/Quimanima.egg-info/PKG-INFO'
+adding 'Quimanima-2020.1.0/Quimanima.egg-info/SOURCES.txt'
+adding 'Quimanima-2020.1.0/Quimanima.egg-info/top_level.txt'
+adding 'Quimanima-2020.1.0/Quimanima.egg-info/dependency_links.txt'
+removing 'Quimanima-2020.1.0' (and everything under it)

@@ -5,7 +5,6 @@ extensions = [
 ]
 
 master_doc = "index"
-
 project = "Quimanima"
 copyright = "2020, Mateus Alves de Oliveira, Jurandy Martins Soares Júnior"
 author = "Mateus Alves de Oliveira, Jurandy Martins Soares Júnior"
